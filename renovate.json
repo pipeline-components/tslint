@@ -1,11 +1,5 @@
 {
   "extends": [
-    "config:base"
-  ],
-  "commitMessageAction": "Updates",
-  "commitMessageTopic": "{{depName}}",
-  "commitMessagePrefix": ":arrow_up:",
-  "labels": [
-    "Type::Maintenance"
+    "gitlab>pipeline-components/org/config"
   ]
 }
