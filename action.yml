@@ -1,0 +1,23 @@
+---
+name: "tslint"
+description: "tslint by Pipeline Components"
+author: "Robbert Müller <spam.me@grols.ch>"
+branding:
+  icon: "flag"
+  color: "green"
+inputs:
+  directory:
+    description: "Directory to lint"
+    required: false
+    default: "src/**/*.ts"
+  options:
+    description: "Additional options"
+    required: false
+    default: ""
+runs:
+  using: "docker"
+  image: docker://pipelinecomponents/tslint
+  args:
+    - tslint
+    - "${{ inputs.options }}"
+    - "${{ inputs.directory }}"
