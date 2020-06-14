@@ -1,5 +1,5 @@
 ---
-name: "tslint"
+name: "pipeline-components-tslint"
 description: "tslint by Pipeline Components"
 author: "Robbert Müller <spam.me@grols.ch>"
 branding:
