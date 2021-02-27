@@ -24,7 +24,7 @@ for more information on using tslint check their [website][tslintwebsite]
 ```yaml
 tslint:
   stage: linting
-  image: pipelinecomponents/tslint:latest
+  image: registry.gitlab.com/pipeline-components/tslint:latest
   script:
     - tslint 'src/**/*.ts'
 ```
