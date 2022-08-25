@@ -85,13 +85,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[commits]: https://gitlab.com/pipeline-components/tslint/commits/master
-[contributors]: https://gitlab.com/pipeline-components/tslint/graphs/master
+[commits]: https://gitlab.com/pipeline-components/tslint/-/commits/master
+[contributors]: https://gitlab.com/pipeline-components/tslint/-/graphs/master
 [dockerhub]: https://hub.docker.com/r/pipelinecomponents/tslint
 [license-shield]: https://img.shields.io/badge/License-MIT-green.svg
 [mjrider]: https://gitlab.com/mjrider
 [gitlabci-shield]: https://img.shields.io/gitlab/pipeline/pipeline-components/tslint.svg
-[gitlabci]: https://gitlab.com/pipeline-components/tslint/commits/master
+[gitlabci]: https://gitlab.com/pipeline-components/tslint/-/commits/master
 [issue]: https://gitlab.com/pipeline-components/tslint/issues
 [keepchangelog]: http://keepachangelog.com/en/1.0.0/
 [layers-shield]: https://images.microbadger.com/badges/image/pipelinecomponents/tslint.svg
