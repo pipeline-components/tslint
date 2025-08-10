@@ -14,7 +14,6 @@
 ## Usage
 
 The image is for running tslint, tslint is installed in /app/ in case you need to customize the install before usage.
-The image is based on node:10.15-alpine
 
 for more information on using tslint check their [website][tslintwebsite]
 
